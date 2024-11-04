@@ -1,0 +1,7 @@
+bs4==0.0.2
+os
+re
+requests==2.31.0
+threading
+time
+tkinter
